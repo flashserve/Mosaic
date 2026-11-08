@@ -440,10 +440,15 @@ candidates so benchmark reports and logs never enter the repository tree.
 If you use Mosaic in research, please cite:
 
 ```bibtex
-@article{zheng2026mosaic,
-  title={Mosaic: Unlocking Long-Context Inference for Diffusion LLMs via Global Memory Planning and Dynamic Peak Taming},
-  author={Zheng, Liang and Shi, Bowen and Hu, Yitao and Zhang, Jiawei and Li, Ruofan and Chen, Sheng and Li, Wenxin and Li, Keqiu},
-  journal={arXiv preprint arXiv:2601.06562},
-  year={2026}
+@InProceedings{pmlr-v306-zheng26o,
+  title = {Mosaic: Unlocking Over 30$\times$ Context Length for Diffusion {LLM}s Inference via Global Memory Planning and Dynamic Peak Taming},
+  author = {Zheng, Liang and Shi, Bowen and Hu, Yitao and Zhang, Jiawei and Li, Ruofan and Yang, Guotao and Zhao, Zhixin and Wang, Zhengchao and Chen, Sheng and Li, Wenxin and Ran, Dezhi and Xie, Tao and Li, Keqiu},
+  booktitle = {Proceedings of the 43rd International Conference on Machine Learning},
+  pages = {163504--163516},
+  year = {2026},
+  volume = {306},
+  series = {Proceedings of Machine Learning Research},
+  publisher = {PMLR},
+  url = {https://proceedings.mlr.press/v306/zheng26o.html}
 }
 ```
